@@ -13,3 +13,7 @@ int main()
   printf("%d\n", sum);
   return 0;
 }
+
+
+// Alexis: todo
+// I need to add the recursive fibonacci function to the code above.
